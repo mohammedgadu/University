@@ -1,2 +1,2 @@
 # University-Website
-University-Website Responsive , used Html5 and CSS3 
+University-Website Responsive ,Html5 and CSS3 
